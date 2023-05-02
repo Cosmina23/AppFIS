@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f09b9b5-8dbc-489f-b03b-b8dc0d906080" name="Changes" comment="Standard Structure">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f09b9b5-8dbc-489f-b03b-b8dc0d906080" name="Changes" comment="README file added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682979400150</updated>
       <workItem from="1682979401146" duration="154000" />
-      <workItem from="1683007152491" duration="620000" />
+      <workItem from="1683007152491" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="Standard Structure">
       <created>1683007297338</created>
@@ -58,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683007297338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README file added">
+      <created>1683007848057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683007848057</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,7 +82,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Standard Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Standard Structure" />
+    <MESSAGE value="README file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="README file added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
